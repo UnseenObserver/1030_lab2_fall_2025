@@ -4,6 +4,8 @@
  */
 package eecs1020_lab2_pawloski;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Charlotte Pawloski
